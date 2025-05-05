@@ -1,0 +1,4 @@
+# htt.server / port= 8080/ fica opcional qual porta escolher.
+------------------------------
+python3 -m http.server 8080
+------------------------------
